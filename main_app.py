@@ -10,7 +10,7 @@ import os
 load_dotenv()
 
 def generate_email(business_details, email_prompt):
-    model = ChatOpenAI(model="gpt-3.5-turbo",api_key="sk-proj-wxfbw7hIWevOLEdKTfydT3BlbkFJOOVqMLD7IinIdaWwl5qn")
+    model = ChatOpenAI(model="gpt-3.5-turbo")
 
 
 
