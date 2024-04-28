@@ -1,3 +1,2 @@
 langchain_openai
-openai
 python-dotenv
